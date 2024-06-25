@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.0.1](https://github.com/stevearc/conform.nvim/compare/v6.0.0...v6.0.1) (2024-06-25)
+
+
+### Bug Fixes
+
+* **npm-groovy-lint:** ignore exit code 1 ([#477](https://github.com/stevearc/conform.nvim/issues/477)) ([c26dadf](https://github.com/stevearc/conform.nvim/commit/c26dadf8a47a547768d1048a0d698ecec33494ce))
+
 ## [6.0.0](https://github.com/stevearc/conform.nvim/compare/v5.9.0...v6.0.0) (2024-06-25)
 
 
